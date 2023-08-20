@@ -6,6 +6,7 @@ package section02;
  * 읽을 수 있다.
  * 
  * 깃 허브 수정
+ * 수정
  */
 
 import java.util.Scanner;
