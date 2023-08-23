@@ -23,5 +23,18 @@ public class Operator01 {
 		String result;
 		result = num1 + "+" + num2 + "=" + sum;
 		System.out.println(result);
+		
+		//두수의 곱 구하기
+		int multiply = num1 * num2;
+		System.out.println("두수의 곱: " + multiply);
+		
+		//나누기
+		int divide = num1 / num2;
+		System.out.println("두수 나누기: " + divide);
+		
+		//나머지 값
+		int remain = 9 % 5;
+		System.out.println("9 % 5 = " + remain);
+		
 	}
 }
